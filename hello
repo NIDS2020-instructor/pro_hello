@@ -2,4 +2,6 @@
 #
 # Program to greet Leila
 
-echo "Hi Leila"
+name="Leila"
+
+echo "Hi ${name}"
