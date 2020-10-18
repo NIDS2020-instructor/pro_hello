@@ -4,4 +4,5 @@
 
 name="Leia"
 
-echo "Hello Princess ${name}"
+echo "Hello Princess ${name}!"
+echo "How are you?"
