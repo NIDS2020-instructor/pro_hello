@@ -6,3 +6,4 @@ name="Leia"
 
 echo "Hello Princess ${name}"
 echo "bugfix add"
+echo "bugfix add2"
